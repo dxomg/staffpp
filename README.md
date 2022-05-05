@@ -1,2 +1,2 @@
-# staffpp
-This is a Staff++ plugin for Cuberite
+# Staff++
+This is a Staff++ port plugin for Cuberite
